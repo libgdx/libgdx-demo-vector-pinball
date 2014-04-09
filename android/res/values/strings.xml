@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="hello">Hello World, BouncyAndroid!</string>
-    <string name="app_name">Gdx Vector Pinball</string>
+
+    <string name="app_name">libgdx-demo-vector-pinball</string>
+
 </resources>
