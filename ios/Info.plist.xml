@@ -27,7 +27,7 @@
     <key>UIViewControllerBasedStatusBarAppearance</key>
     <false/>
     <key>UIStatusBarHidden</key>
-    <false/>
+    <true/>
     <key>UIDeviceFamily</key>
     <array>
         <integer>1</integer>
@@ -41,8 +41,6 @@
     <key>UISupportedInterfaceOrientations</key>
     <array>
         <string>UIInterfaceOrientationPortrait</string>
-        <string>UIInterfaceOrientationLandscapeLeft</string>
-        <string>UIInterfaceOrientationLandscapeRight</string>
     </array>
 </dict>
 </plist>
