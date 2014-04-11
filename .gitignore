@@ -18,7 +18,7 @@ www-test/
 .gwt-tmp/
 
 ## Android Studio and Intellij
-
+gen/
 .idea/
 *.ipr
 *.iws
@@ -27,7 +27,8 @@ out/
 com_crashlytics_export_strings.xml
 
 ## Eclipse
-
+.classpath
+.project
 .metadata
 bin/
 tmp/
