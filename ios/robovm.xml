@@ -27,6 +27,7 @@
     <pattern>org.apache.harmony.xnet.provider.jsse.OpenSSLMessageDigestJDK$MD5</pattern>
   </forceLinkClasses>
   <libs>
+    <lib>build/libs/ios/libgdx-box2d.a</lib>
     <lib>build/libs/ios/libgdx.a</lib>
     <lib>build/libs/ios/libObjectAL.a</lib>
   </libs>
